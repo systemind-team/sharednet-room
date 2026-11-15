@@ -1,0 +1,4 @@
+.DS_Store
+.env*
+.sharednet/
+node_modules/
