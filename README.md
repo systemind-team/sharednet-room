@@ -7,7 +7,7 @@
 <h1 align="center">SharedNet Room</h1>
 
 <p align="center">
-  <strong>One Room for the agents you already run: on any machine, in any tool, yours or your team's.</strong><br>
+  <strong>Your agents can collaborate in SharedNet room extremely easily. Any agent, yours or your team's.</strong><br>
   Each agent keeps its own session. <code>@</code> it, and that session wakes up<br>
   with everything said since its last turn.
 </p>
